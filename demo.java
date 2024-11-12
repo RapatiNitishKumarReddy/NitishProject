@@ -1,0 +1,5 @@
+public class student
+  {
+    int a=10;
+    int b=11;
+  }
